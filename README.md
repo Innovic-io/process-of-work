@@ -12,6 +12,12 @@ A board represents a project or a place to keep track of information. No matter 
 
 **You will create separate boards for development, bugs, improvements or any other things which you may find necessary for your project.**
 
+For example, if project name is: **Weather app**, we will create three boards: 
+
+- Weather App
+- Weather App | Bugs
+- Weather App | Improvements
+
 ## **Lists** ##
 
 In every board section board lists have to be created (when it comes to lists, there’s no right or wrong way to go. It’s all about creating a structure for your board that works for you, no matter how you work). In our case, we organize them this way : 
