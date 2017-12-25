@@ -1,4 +1,6 @@
-# **Boards** #
+# **Trello Boards** #
+
+We use Kanban(ish) method for development.
 
 First of all, for every project it is desirable to create a board.
 
@@ -12,7 +14,14 @@ A board represents a project or a place to keep track of information. No matter 
 
 ## **Lists** ##
 
-In every board section board lists have to be created (when it comes to lists, there’s no right or wrong way to go. It’s all about creating a structure for your board that works for you, no matter how you work). In our case, we organize them this way : **backlog**, **next**, **in progress**, **staged**, **approved** and **live**.
+In every board section board lists have to be created (when it comes to lists, there’s no right or wrong way to go. It’s all about creating a structure for your board that works for you, no matter how you work). In our case, we organize them this way : 
+
+- **backlog** - Job defined by business owner or product manager
+- **next** - Cards marked for development by business owner or product manager
+- **in progress** - Card taken by developer
+- **staged** - Ready for testing
+- **approved** Tested by QA team and business owner
+- **live**. Deployed, published
 
 Lists keep cards organized in their various stages of progress. They can be used to create a workflow where cards are moved across lists from start to finish, or simply act as a place to keep track of ideas and information. Of course, there’s no limit to the number of lists you can add to a board.**
 
@@ -20,7 +29,7 @@ Lists keep cards organized in their various stages of progress. They can be used
 
 ### **Cards** ###
 
-The basic unit of a board is a **card**. Cards are used to represent tasks and ideas. A card can be something that needs to be done, whtether you are working on an development, improvement or a bug. Drag and drop cards across lists to show progress. There’s no limit to the number of cards you can add to a board.
+The basic unit of a board is a **card**. Cards are used to represent tasks and ideas. A card can be something that needs to be done, whether you are working on an development, improvement or a bug. Drag and drop cards across lists to show progress. There’s no limit to the number of cards you can add to a board.
 Cards have different **levels of severity**, the highest priority have those with highest level of severity, meaning that those most important ones come first when working on a project.
 You have to, obviously, give a card a **name**. Whether your new card represents a task, an idea, or just a piece of information, card names should be clear, concise, and sometimes even fun.
 
@@ -30,13 +39,33 @@ You have to, obviously, give a card a **name**. Whether your new card represents
 
 We like to label our cards in this way:
 
-- **bugs - red label**
-- **approved - green label**
-- **warning - orange lebel**
-- **new feature - blue label**
-- **improvement - yellow label**
+**development board**
 
-**However, these lebels can be different depending on the board you create.**
+- **require estimate - blue label**
+- **estimate approved - green label**
+- **blocked - black label**
+
+In development board, we also put labels on different components of project, like:
+
+- **API - violet**
+- **Front End - pink**
+- **Integration with Zapier - orange**
+
+**bug board**
+
+- **Critical - red**
+- **Medium - orange**
+- **Low - green**
+- **blocked - black label**
+
+**improvements board**
+
+- **Critical - red**
+- **Medium - orange**
+- **Low - green**
+- **Just idea -- blue**
+
+**However, these labels can be different depending on the board you create.**
 
 #### **Card structure** ####
 
