@@ -1,4 +1,9 @@
-# **Trello Boards** #
+# **INNOVIC'S PROCESS OF WORK** # 
+
+**_The whole is greater than the sum of its parts._ - Aristotle**
+
+
+## **Trello boards** ##
 
 We use Kanban(ish) method for development.
 
@@ -12,13 +17,13 @@ A board represents a project or a place to keep track of information. No matter 
 
 **You will create separate boards for development, bugs, improvements or any other things which you may find necessary for your project.**
 
-For example, if project name is: **Weather app**, we will create three boards: 
+For example, if a project name is: **Weather app**, we will create three boards: 
 
 - Weather App
 - Weather App | Bugs
 - Weather App | Improvements
 
-## **Lists** ##
+### **Lists** ###
 
 In every board section board lists have to be created (when it comes to lists, there’s no right or wrong way to go. It’s all about creating a structure for your board that works for you, no matter how you work). In our case, we organize them this way : 
 
@@ -29,11 +34,11 @@ In every board section board lists have to be created (when it comes to lists, t
 - **approved** Tested by QA team and business owner
 - **live**. Deployed, published
 
-Lists keep cards organized in their various stages of progress. They can be used to create a workflow where cards are moved across lists from start to finish, or simply act as a place to keep track of ideas and information. Of course, there’s no limit to the number of lists you can add to a board.**
+Lists keep cards organized in their various stages of progress. They can be used to create a workflow where cards are moved across lists from start to finish, or simply act as a place to keep track of ideas and information. Of course, there’s no limit to the number of lists you can add to a board.
 
 ![logo](images/trello_lists.png)
 
-### **Cards** ###
+#### **Cards** ####
 
 The basic unit of a board is a **card**. Cards are used to represent tasks and ideas. A card can be something that needs to be done, whether you are working on an development, improvement or a bug. Drag and drop cards across lists to show progress. There’s no limit to the number of cards you can add to a board.
 Cards have different **levels of severity**, the highest priority have those with highest level of severity, meaning that those most important ones come first when working on a project.
@@ -41,7 +46,7 @@ You have to, obviously, give a card a **name**. Whether your new card represents
 
 ![logo](images/card_names_and_labels.png)
 
-#### **Card labels** ####
+##### **Card labels** #####
 
 We like to label our cards in this way:
 
@@ -51,7 +56,7 @@ We like to label our cards in this way:
 - **estimate approved - green label**
 - **blocked - black label**
 
-In development board, we also put labels on different components of project, like:
+In a development board, we also put labels for different components of project, like this:
 
 - **API - violet**
 - **Front End - pink**
@@ -102,3 +107,21 @@ The **Add** section provides you with more tools that the card offers:
 - **Add Checklists** for cards that require subtasks or have multiple steps to make sure nothing is left behind. You can even copy checklists from other cards on the board.
 - **Add a Due date** to cards with deadlines, and card members will receive a notification 24 hours before it’s due. Once the tasks are completed, due dates can be marked as done.
 - **Add Attachments** from both your computer and many cloud storage services like Dropbox, Google Drive, Box, and OneDrive.
+
+## **Daily scrum** ##
+
+**Daily scrum** is a 15 minute event, held at the same time each working day, where the **development team** gathers to synchronise their activitis and prepare a plan for the day that is ahead of them. Daily scrum enhances team collboration and performance by inspecting the work since the last daily scrum and preparing work for the next day. During the daily scrum, each team member answers the following three questions:
+- What did you do yesterday?
+- What will you do today?
+- Are there any obstacles in your way?
+By focusing on what each person accomplished yesterday and will accomplish today, the team gains an excellent understanding of what work has been done and what work remains. 
+
+## **Story points** ##
+
+**Story points** are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product or any other piece of work.
+Because story points represent the effort to develop a story, a team’s estimate must include everything that can affect the effort. That could include:
+- The amount of work to do
+- The complexity of the work
+- Any risk or uncertainty in doing the work
+
+
