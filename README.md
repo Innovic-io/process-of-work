@@ -111,17 +111,25 @@ The **Add** section provides you with more tools that the card offers:
 ## **Daily scrum** ##
 
 **Daily scrum** is a 15 minute event, held at the same time each working day, where the **development team** gathers to synchronise their activitis and prepare a plan for the day that is ahead of them. Daily scrum enhances team collboration and performance by inspecting the work since the last daily scrum and preparing work for the next day. During the daily scrum, each team member answers the following three questions:
+
 - What did you do yesterday?
 - What will you do today?
 - Are there any obstacles in your way?
+
 By focusing on what each person accomplished yesterday and will accomplish today, the team gains an excellent understanding of what work has been done and what work remains. 
+
+## **Story** ##
+
+Story is feature description.
 
 ## **Story points** ##
 
 **Story points** are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product or any other piece of work.
 Because story points represent the effort to develop a story, a team’s estimate must include everything that can affect the effort. That could include:
+
 - The amount of work to do
 - The complexity of the work
 - Any risk or uncertainty in doing the work
-
-
+- Discussions regarding task
+- Refactoring code
+- Testing ( often 20% of time )
