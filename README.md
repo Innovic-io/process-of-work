@@ -50,11 +50,11 @@ You have to, obviously, give a card a **name**. Whether your new card represents
 
 We like to label our cards in this way:
 
-**development board**
+**Development board**
 
-- **require estimate - blue label**
-- **estimate approved - green label**
-- **blocked - black label**
+- **Require estimate - blue label**
+- **Estimate approved - green label**
+- **Blocked - black label**
 
 In a development board, we also put labels for different components of project, like this:
 
@@ -62,19 +62,19 @@ In a development board, we also put labels for different components of project, 
 - **Front End - pink**
 - **Integration with Zapier - orange**
 
-**bug board**
+**Bug board**
 
 - **Critical - red**
 - **Medium - orange**
 - **Low - green**
-- **blocked - black label**
+- **Blocked - black label**
 
-**improvements board**
+**Improvements board**
 
 - **Critical - red**
 - **Medium - orange**
 - **Low - green**
-- **Just idea -- blue**
+- **Just an idea -- blue**
 
 **However, these labels can be different depending on the board you create.**
 
