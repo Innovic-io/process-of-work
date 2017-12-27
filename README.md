@@ -126,8 +126,11 @@ By focusing on what each person accomplished yesterday and will accomplish today
 
 As you can see, they’re short, simple descriptions of functionality usually told from the user’s perspective and written in their language. 
 
+On the other hand, there are **enabler stories**, the way how developing team responds to a user story. Enabler stories bring visibility to the work items needed to support exploration, architecture, infrastructure, and compliance.
 
- **Agile Teams** implement small, vertical slices of system functionality and are sized so they can be completed in a single Iteration.
+![logo](images/enabler_story.png)
+
+ **Agile Teams** implement small, vertical slices of system functionality and are sized so they can be completed in a single **Iteration (single development cycle)**.
 
 
 ## **Story points** ##
