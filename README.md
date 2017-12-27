@@ -132,7 +132,6 @@ On the other hand, there are **enabler stories**, the way how developing team re
 
  **Agile Teams** implement small, vertical slices of system functionality and are sized so they can be completed in a single **Iteration (single development cycle)**.
 
-
 ## **Story points** ##
 
 **Story points** are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product or any other piece of work.
@@ -144,3 +143,7 @@ Because story points represent the effort to develop a story, a team’s estimat
 - Discussions regarding a task
 - Refactoring the code
 - Testing ( often 20% of time )
+
+## **Iteration** ##
+
+In agile software development, an **iteration** is a single development cycle, usually two weeks period. Each iteration ends with an inspection of the team’s progress, as well as an updated backlog for the next iteration. Next, the team prepares and participates in the **System Demo** that gives an integrated view of the new **Features** for the most recent iteration delivered by all the teams.
