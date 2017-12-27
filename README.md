@@ -31,8 +31,8 @@ In every board section board lists have to be created (when it comes to lists, t
 - **next** - Cards marked for development by business owner or product manager
 - **in progress** - Card taken by developer
 - **staged** - Ready for testing
-- **approved** Tested by QA team and business owner
-- **live**. Deployed, published
+- **approved** - Tested by QA team and business owner
+- **live** - Deployed, published
 
 Lists keep cards organized in their various stages of progress. They can be used to create a workflow where cards are moved across lists from start to finish, or simply act as a place to keep track of ideas and information. Of course, there’s no limit to the number of lists you can add to a board.
 
@@ -118,7 +118,7 @@ The **Add** section provides you with more tools that the card offers:
 
 By focusing on what each person accomplished yesterday and will accomplish today, the team gains an excellent understanding of what work has been done and what work remains. 
 
-## **Story** ##
+## **Stories** ##
 
 **Stories** are short descriptions of a small piece of desired functionality, written in the user’s language.
 
@@ -147,3 +147,4 @@ Because story points represent the effort to develop a story, a team’s estimat
 ## **Iteration** ##
 
 In agile software development, an **iteration** is a single development cycle, usually two weeks period. Each iteration ends with an inspection of the team’s progress, as well as an updated backlog for the next iteration. Next, the team prepares and participates in the **System Demo** that gives an integrated view of the new **Features** for the most recent iteration delivered by all the teams.
+
