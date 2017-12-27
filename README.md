@@ -120,7 +120,15 @@ By focusing on what each person accomplished yesterday and will accomplish today
 
 ## **Story** ##
 
-Story is feature description.
+**Stories** are short descriptions of a small piece of desired functionality, written in the user’s language.
+
+![logo](images/user_story.png)
+
+As you can see, they’re short, simple descriptions of functionality usually told from the user’s perspective and written in their language. 
+
+
+ **Agile Teams** implement small, vertical slices of system functionality and are sized so they can be completed in a single Iteration.
+
 
 ## **Story points** ##
 
@@ -130,6 +138,6 @@ Because story points represent the effort to develop a story, a team’s estimat
 - The amount of work to do
 - The complexity of the work
 - Any risk or uncertainty in doing the work
-- Discussions regarding task
-- Refactoring code
+- Discussions regarding a task
+- Refactoring the code
 - Testing ( often 20% of time )
