@@ -148,3 +148,9 @@ Because story points represent the effort to develop a story, a team’s estimat
 
 In agile software development, an **iteration** is a single development cycle, usually two weeks period. Each iteration ends with an inspection of the team’s progress, as well as an updated backlog for the next iteration. Next, the team prepares and participates in the **System Demo** that gives an integrated view of the new **Features** for the most recent iteration delivered by all the teams.
 
+## **Other tools we use** ##
+
+- We use **Slack**, because every team needs to communicate.
+- For meeting and video calls we use combination of **Slack** calls and **Zoom**.
+- For screenshots we use **Shutter** ( Ubuntu ) or **Greenshot** ( Windows )
+- For collaboration writing and meeting notes we use **Google docs**.
